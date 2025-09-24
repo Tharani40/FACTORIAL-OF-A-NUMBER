@@ -54,12 +54,12 @@ END
 ```
 OUTPUT
 
-<img width="586" height="366" alt="image" src="https://github.com/user-attachments/assets/b53c58c3-d6c3-43ee-ae65-ab7127850171" />
+<img width="476" height="298" alt="image" src="https://github.com/user-attachments/assets/fcc230e7-050c-4826-9e70-ce8107647a01" />
 
 ---
 MANUAL CALCULATIONS
 
-<img width="529" height="355" alt="image" src="https://github.com/user-attachments/assets/53047c70-087e-44d7-a937-3cf78459b878" />
+<img width="244" height="163" alt="image" src="https://github.com/user-attachments/assets/98860547-a16b-4b48-ba32-a2a53fc4590b" />
 
 ---
 
